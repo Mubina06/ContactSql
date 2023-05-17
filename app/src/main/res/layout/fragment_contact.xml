@@ -52,8 +52,7 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_marginStart="288dp"
-      android:id="@+id/float_button"
-
+        android:id="@+id/float_button"
         android:layout_marginBottom="68dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
